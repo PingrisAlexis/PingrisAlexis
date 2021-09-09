@@ -22,9 +22,9 @@
 
 <h3 align="left"> Database:</h3>
   <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+      <img src="https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/6IOYf3uRJMGxcpXMTswN" alt="mongodb" height="50"/>
     |
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> 
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50"/> 
     |
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> 
     |
@@ -36,8 +36,12 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
     |
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
+    |
+      <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vs-code"width="50" height="50"/>  
  </p>
 
 <h3 align="left"> Stats:</h3>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&show_owner&custom_title=Github activities&include_all_commits&hide=contribs&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%" />
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=defaut&theme=highcontrast&langs_count=10&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%"/>
+  
