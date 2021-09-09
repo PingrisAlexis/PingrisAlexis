@@ -1,8 +1,8 @@
-<h3 align="center">Junior Full-Stack JavaScript Web developer</h3>
+<h3 align="center" color=#e6f116>Junior Full-Stack JavaScript Web developer</h3>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&hide=contribs" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=compact&theme=highcontrast&langs_count=10"/>
-
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&hide=contribs&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=compact&theme=highcontrast&langs_count=10&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%"/>
+<br><br><br><br><br><br><br>
 <h3 align="left"> Front-end Development:</h3>
   <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
