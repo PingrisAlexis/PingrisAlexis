@@ -1,7 +1,7 @@
 <h3 align="center">Junior Full-Stack JavaScript Web developer</h3>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&hide=contribs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=compact&theme=highcontrast&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=compact&theme=highcontrast&langs_count=10"/>
 
 <h3 align="left"> Front-end Development:</h3>
   <p align="left">
