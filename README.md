@@ -24,7 +24,9 @@
   </p>
 <h3 align="left"> Back-end Development:</h3>
   <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="90"/> 
+      <img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-2.jpg" alt="nodejs" height="50"/>
+  |
+      <img src="https://trainings.nicolasfazio.ch/wp-content/uploads/2020/04/express-logo.png"alt="exrepssJS" height="50"/> 
 </p>
 
 <h3 align="left"> Database:</h3>
