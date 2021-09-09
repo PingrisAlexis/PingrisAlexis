@@ -1,7 +1,4 @@
-<h3 align="center" color=#e6f116>Junior Full-Stack JavaScript Web developer</h3>
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&hide=contribs&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=compact&theme=highcontrast&langs_count=10&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%"/>
+<h3 align="center" color=#e6f116>Junior Full-Stack <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> Web developer</h3>
 
 <h3 align="left"> Front-end Development:</h3>
   <p align="left">
@@ -9,11 +6,7 @@
   |
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   |
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
   |
@@ -44,3 +37,7 @@
     |
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
  </p>
+
+<h3 align="left"> Stats:</h3>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&show_owner&custom_title=Github activities&include_all_commits&hide=contribs&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=defaut&theme=highcontrast&langs_count=10&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%"/>
