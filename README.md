@@ -24,11 +24,9 @@
   <p align="left">
       <img src="https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/6IOYf3uRJMGxcpXMTswN" alt="mongodb" height="50"/>
     |
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50"/> 
+      <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-foundation-vector-logo.png" alt="mariadb" height="50"/> 
     |
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> 
-    |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
+      <img src="https://miro.medium.com/max/1400/1*TTM5AleQfFJ-mItttJROdg.jpeg" alt="mysql" width="90" height="50"/> 
   </p>
   
 <h3 align="left"> Tools:</h3>
