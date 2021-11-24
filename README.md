@@ -1,4 +1,4 @@
-<h3 align="center" color=#e6f116>Junior Full-Stack <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> Web developer</h3>
+<h3 align="center" color=#e6f116>Junior Front-end <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> Web developer</h3>
 
 <h3 align="left"> Front-end Development:</h3>
   <p align="left">
