@@ -1,45 +1,46 @@
-<h3 align="center" color=#e6f116>Junior Front-end <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> Web developer</h3>
+<h3 align="center" color=#e6f116>Junior Front-end Web developer</h3>
 
-<h3 align="left"> Front-end Development:</h3>
-  <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-  |
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  
-  </p>
-<h3 align="left"> Back-end Development:</h3>
-  <p align="left">
-      <img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-2.jpg" alt="nodejs" height="50"/>
-  |
-      <img src="https://trainings.nicolasfazio.ch/wp-content/uploads/2020/04/express-logo.png"alt="exrepssJS" height="50"/> 
-</p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis"/> 
 
-<h3 align="left"> Database:</h3>
-  <p align="left">
-      <img src="https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/6IOYf3uRJMGxcpXMTswN" alt="mongodb" height="50"/>
-    |
-      <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-foundation-vector-logo.png" alt="mariadb" height="50"/> 
-    |
-      <img src="https://miro.medium.com/max/1400/1*TTM5AleQfFJ-mItttJROdg.jpeg" alt="mysql" width="90" height="50"/> 
+ </p> 
+	
+<h3 align="center">👩‍💻Languages:</h3>
+  <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"/>
   </p>
+  <h3 align="center">🚀Frameworks:</h3>
+  <p align="center">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js"/>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue.js"/> 
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js"/>
+  </p>
+<h3 align="center">⚡Database:</h3>
+  <p align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/> 
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </p>
+<h3 align="center">👩‍💻IDE:</h3>
+  <p align="center">  
+      <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm"/>
   
-<h3 align="left"> Tools:</h3>
-  <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-    |
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-    |
-      <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vs-code"width="50" height="50"/>  
+ </p>  
+<h3 align="center"> Tools:</h3>
+  <p align="center">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>  
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>     
+
  </p>
-
-<h3 align="left"> Stats:</h3>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PingrisAlexis&theme=highcontrast&show_icons=true&show_owner&custom_title=Github activities&include_all_commits&hide=contribs&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&layout=defaut&theme=highcontrast&langs_count=10&bg_color=f1e05a&title_color=323330&icon_color=323330&text_color=323330&border_color=323330&border_radius=30%"/>
-  
+ <h3 align="center"> Contact me!</h3>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/pingrisalexis/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>    
+  </a>
+ </p
