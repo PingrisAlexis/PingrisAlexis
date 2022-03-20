@@ -1,4 +1,4 @@
-<h3 align="center" color=#e6f116>Junior Front-End Web Developer</h3>
+<h3 align="center" color=#e6f116>Junior Front-End Developer</h3>
 
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis"/> 
@@ -12,8 +12,9 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
   </p>
   <h3 align="center">🚀Frameworks</h3>
-  <p align="center">
+  <p align="center">	
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js"/>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue.js"/> 
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
@@ -36,7 +37,7 @@
   <p align="center">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>    
  </p>
- <h3 align="center">Contact me!</h3>
+ <h3 align="center">📝Contact me!</h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/pingrisalexis/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>    
