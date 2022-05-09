@@ -1,4 +1,4 @@
-<h3 align="center" color=#e6f116>Junior Front-End Developer</h3>
+<h3 align="center" color=#e6f116>Front-End Developer</h3>
 
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis"/> 
