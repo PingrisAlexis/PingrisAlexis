@@ -1,9 +1,5 @@
 <h3 align="center" color=#e6f116>Front-End Developer</h3>
 
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingrisAlexis&langs_count=8"/> 
-
- </p> 
 	
 <h3 align="center">👩‍💻Languages</h3>
   <p align="center">
