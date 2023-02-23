@@ -1,4 +1,4 @@
-<h3 align="center" color=#e6f116>Front-End Developer</h3>
+<h3 align="center" color=#e6f116>Developer</h3>
 
 	
 <h3 align="center">👩‍💻Languages</h3>
